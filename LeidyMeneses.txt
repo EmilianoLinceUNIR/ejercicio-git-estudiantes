@@ -1,5 +1,5 @@
 Soy de Cúcuta.
-Ingeniera en Macarrónica.
+Ingeniera en Macatrónica.
 Soy Ing de soporte de software L4
 Plataformas: VS Code, Arduino IDE, Web, AWS, Postman, N8N, Github.
 
