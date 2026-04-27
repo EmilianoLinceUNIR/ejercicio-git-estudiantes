@@ -1,0 +1,3 @@
+Hola, soy David Gutierrez, soy ingeniero de sistemas Graduado de la Pontificia Universidad Javeriana (Bogota)
+Cuento con experiencia con tecnologías como Java, .Net, Python, Angular, bases de datos SQL/NOSQL
+Actualmente trabajo con una empresa de gestion de almacenes donde desarrollo nuevos modulos o funciones para los clientes
