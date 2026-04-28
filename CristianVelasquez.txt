@@ -1,0 +1,14 @@
+Hola Soy Cristian Velasquez de la ciudad de Medellín, Antioquia (Colombia)
+Soy Full Stack Developer con +8 años creando apps web, móviles y soluciones de datos.
+
+He trabajado en:
+
+Plataformas web y móviles para gobierno y empresas
+Portales y apps con gestión de usuarios, eventos y datos
+Soluciones de analítica y recolección de información
+Sistemas financieros y de administración
+Apps móviles para gestión e inventarios
+
+Tecnologías: .Net,Java Spring, React, Angular, Vue, Node/Nest, Laravel, Docker, K8s, ultimadamente AWS y Azure
+
+Dispuesto a aprender todo lo necesario para mejorar el conocimiento y las capacidades para ser mas competitivo en este mundo de la tecnología.
