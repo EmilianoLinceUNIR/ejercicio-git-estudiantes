@@ -1,0 +1,51 @@
+
+=====================================================================
+          EDGAR AUGUSTO ANDRADE HIGUERA | INGENIERO
+=====================================================================
+
+          [ INICIO ]
+              |
+              v
+      .-------+-------.       RADICADO: Roldanillo, Valle del Cauca
+      |   UBICACIÓN   |       Latitud: 4.41361 (4° 24' 49'' Norte).   Longitud: -76.1547 (76° 9' 17'' Oeste).
+      '-------+-------'       Altitud: 966 m s.n.m.
+              |
+              v
+      .-------+-------.       * Ingeniero de Sistemas
+      |   FORMACIÓN   |       * Tecnólogo en Sistemas de Información
+      |   ACADÉMICA   |       * Tecnólogo en Electrónica
+      '-------+-------'       * Técnico Prof. en Sistemas e Informática
+              |
+              v
+      .-------+-------.       Líder de Procesos OITEL (Oficina de Inf. y Telecomunicaciones.)
+      |    PERFIL     |       Universidad del Valle - Seccional Zarzal
+      |    LABORAL    |       Dedicado a la gestión de infraestructura y a la Docencia Universitaria en Tic's
+      '-------+-------'
+              |
+              v
+      .-------+-------.       PLATAFORMAS: VS Code, Arduino IDE, Web, NetBeans, GitHub.
+      |     STACK     |       LENGUAJES: Java, Python, C#, C++, UML, MySQL
+      '-------+-------'
+              |
+              v
+           [ FIN ]
+
+[+] DATOS IMPORTANTES
+    - Especialista en integración de hardware/software (Arduino).
+    - Apasionado por la enseñanza de la algoritmia y programación.
+    - Gestor de procesos tecnológicos universitarios.
+
+[+] REDES Y CONTACTO
+    - LinkedIn: https://www.linkedin.com/in/eaandradeh/
+    - GitHub:   https://github.com/AugustoAH
+    - X:        https://x.com/Augusto_A_H
+
+=====================================================================
+         "La mejor forma de predecir el futuro es programarlo"
+=====================================================================
+
+         [o_o]          .________________.         _______
+        /|___|\         |  _________     |     ---|       |---
+         |   |          | | >_      |    |     ---|  CPU  |---
+        / \ / \         | |_________|    |     ---|_______|---
+    PROGRAMACIÓN        |________________|       INTEGRACIÓN
